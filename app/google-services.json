@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "431394725974",
+    "project_id": "try3app-f45cc",
+    "storage_bucket": "try3app-f45cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431394725974:android:463b1f6673920a9621dbf7",
+        "android_client_info": {
+          "package_name": "com.example.gameproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxRCt_71OFyLo5rkUM2Q9vSHWhV8dRnhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
