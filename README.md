@@ -30,4 +30,10 @@ This Android application is designed for children between the ages of 7 and 10. 
 ## Application Structure
 
 The app consists of a single main section:  
-- A **Playing** section  
+- A **Playing** section
+
+## Contributors
+
+- Alperen Çelik  
+- Emre Kurdoğlu  
+- Ege Arda Tekin
